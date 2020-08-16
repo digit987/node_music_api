@@ -15,7 +15,7 @@ A music REST API written in Node.js
 "mongoose": "^5.9.26", <br>
 "pug": "^3.0.0"
 
-<b> Endpoints, DB ans Schema</b>
+<b> Endpoints, DB and Schema</b> <br>
 var userSchema = Schema({ <br>
   name: { <br>
     first_name: { type: String }, <br>
